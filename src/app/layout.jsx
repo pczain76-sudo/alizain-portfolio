@@ -19,24 +19,26 @@ export const metadata = {
     "Ali Zain",
     "Frontend Developer",
     "MERN Stack Developer",
+    "Full Stack Developer",
     "Web Developer Pakistan",
     "React Developer",
+    "Next.js Developer",
     "JavaScript",
     "Portfolio",
   ],
   authors: [{ name: "Ali Zain" }],
   creator: "Ali Zain",
   openGraph: {
-    title: "Ali Zain — Frontend & MERN Stack Developer",
+    title: "Ali Zain — Full Stack Developer",
     description:
-      "Passionate Frontend Developer building responsive, interactive web apps with React and the MERN stack.",
+      "Portfolio of Ali Zain, a passionate Next.js Full Stack Developer building responsive, interactive web apps with React, Next, JavaScript, Tailwind, Electron.js, MERN + PERN.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ali Zain — Frontend & MERN Stack Developer",
+    title: "Ali Zain — Full Stack Developer",
     description:
-      "Passionate Frontend Developer building responsive, interactive web apps with React and the MERN stack.",
+      "Portfolio of Ali Zain, a passionate Next.js Full Stack Developer building responsive, interactive web apps with React, Next, JavaScript, Tailwind, Electron.js, MERN + PERN.",
   },
 };
 

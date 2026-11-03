@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Ali Zain — Frontend & MERN Stack Developer",
+  title: "Ali Zain — Full Stack Developer",
   description:
-    "Portfolio of Ali Zain, a passionate Frontend Developer building responsive, interactive web apps with HTML, CSS, JavaScript, React and the MERN stack.",
+    "Portfolio of Ali Zain, a passionate Next.js Full Stack Developer building responsive, interactive web apps with React, Next, JavaScript, Tailwind, Electron.js, MERN + PERN.",
   keywords: [
     "Ali Zain",
     "Frontend Developer",
